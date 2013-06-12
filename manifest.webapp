@@ -1,0 +1,15 @@
+{
+  "name": "myNoteMe",
+  "description": "myNoteMe - note your activity",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Fahmi Fisal - Justryuz",
+    "url": "http://justryuz.blogspot.com"
+  },
+  "icons": {
+	"128": "/images/logoSampleBig-.png",
+    "120": "/images/logoSampleBig-.png",
+    "60": "/images/logoSampleSmall-.png"
+  },
+  "orientation": "portrait-primary"
+}
