@@ -4,8 +4,8 @@
 	"description": "myNoteMe - note your activity",
 	"launch_path": "/index.html",
 	"icons": {
-		"64": "/images/logoSampleSmall-.png",
-		"128": "/images/logoSampleBig-.png"
+		"64": "/images/icon128.ico",
+		"128": "/images/icon128.ico"
 	},
 	"developer": {
 		"name": "Fahmi Fisal",
