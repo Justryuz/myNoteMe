@@ -1,15 +1,14 @@
 {
-  "name": "myNoteMe",
-  "description": "myNoteMe - note your activity",
-  "launch_path": "/index.html",
-  "developer": {
-    "name": "Fahmi Fisal - Justryuz",
-    "url": "http://justryuz.blogspot.com"
-  },
-  "icons": {
-	"128": "/images/logoSampleBig-.png",
-    "120": "/images/logoSampleBig-.png",
-    "60": "/images/logoSampleSmall-.png"
-  },
-  "orientation": "portrait-primary"
+	"version": "1.0",
+	"name": "myNoteMe - note your activity",
+	"description": "myNoteMe - note your activity",
+	"launch_path": "/index.html",
+	"icons": {
+		"64": "/images/logoSampleSmall-.png",
+		"128": "/images/logoSampleBig-.png"
+	},
+	"developer": {
+		"name": "Fahmi Fisal",
+		"url": "http://justryuz.blogspot.com"
+	}
 }
