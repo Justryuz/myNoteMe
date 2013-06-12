@@ -1,12 +1,12 @@
 CACHE MANIFEST
-# v1.0 myNoteMe
-/index.html
-/js/jquery.min.js
-/js/wysiwym/wysiwym.js
-/js/showdown/showdown.js
-/js/pretty.js
-/js/html5.js
-/images/note.png
-/images/logoSampleSmall-.png
-/images/logoSampleBig-.png
-/images/icon-doc.png
+#myNoteMe
+index.html
+js\jquery.min.js
+js\wysiwym\wysiwym.js
+js\showdown\showdown.js
+js\pretty.js
+js\html5.js
+images\note.png
+images\logoSampleSmall-.png
+images\logoSampleBig-.png
+images\icon-doc.png
