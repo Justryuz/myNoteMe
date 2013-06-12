@@ -11,8 +11,9 @@ Download the code and run it on a web server, in Firefox on a device or in the F
 By Fahmi Fisal & Mozilla Malaysia Community
 
 
-Have issue? ==> https://github.com/Justryuz/myNoteMe/issues
+Have issue?
 ============
+https://github.com/Justryuz/myNoteMe/issues
 
 Justryuz
 ============
