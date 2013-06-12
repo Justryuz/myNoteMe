@@ -1,6 +1,6 @@
 {
 	"version": "1.0",
-	"name": "myNoteMe - note your activity",
+	"name": "myNoteMe",
 	"description": "myNoteMe - note your activity",
 	"launch_path": "/index.html",
 	"icons": {
